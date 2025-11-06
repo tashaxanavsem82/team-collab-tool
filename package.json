@@ -1,7 +1,7 @@
 {
   "name": "team-collab-tool",
   "version": "1.0.0",
-  "description": "A tool to enhance team collaboration",
+  "description": "A web application designed to enhance team collaboration through real-time communication and project management",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
